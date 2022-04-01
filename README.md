@@ -42,8 +42,7 @@ My name is Mikołaj Tomczyk. Before my IT journey I was a professional musician,
 
 ## Technical Books read
 
-*  Radosław Smiglin - Zawód tester 
-*  Karolina Zmitrowicz - Tester oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania
+*  Radosław Smiglin - Zawód tester (w trakcie)
 
 ## Groups for knowledge gathering
 
@@ -57,6 +56,7 @@ My name is Mikołaj Tomczyk. Before my IT journey I was a professional musician,
 
 * [testerzy.pl](http://testerzy.pl)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
+* [testuj.pl](http://testuj.pl)
 
 ## Webinars 
 
